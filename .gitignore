@@ -1,0 +1,15 @@
+# Java / IntelliJ
+**/target/
+**/.idea/
+**/*.class
+*.iml
+
+# Node / Vue / Web
+**/node_modules/
+dist/
+.DS_Store
+
+# Mobile
+.gradle/
+build/
+captures/
